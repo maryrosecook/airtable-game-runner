@@ -15,3 +15,7 @@ Currently uses the API, but could be converted to a block for a much better fram
 * Use a static server (e.g. live-server) to serve the project directory root.
 
 * Visit the URL of your running server in a browser.
+
+## Glider example game
+
+![Glider screenshot](./example-glider-game.png)
